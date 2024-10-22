@@ -1,2 +1,2 @@
 # OpenXRTutorial
-Used for learning native development of OpenXR, familiarizing with OpenXR instance management, event loops, image API access, usage of interaction methods and extension interfaces. More info reference to: https://openxr-tutorial.com/
+Used for learning OpenXR native development, familiarizing with OpenXR instance and session management, event loops, Graphics API, usage of interaction methods and OpenXR extension. More info reference to: https://openxr-tutorial.com/
